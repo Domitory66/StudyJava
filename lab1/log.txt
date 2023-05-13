@@ -1,0 +1,1676 @@
+2023:03:27:05:32:32 Not file type
+2023:03:27:05:32:32 Not file 1
+2023:03:27:05:32:32 Not file bool
+2023:03:27:05:32:32 Not file char
+2023:03:27:05:32:32 Succesfull read CSVdata.csv
+2023:03:27:05:32:32 Added object television str 0
+2023:03:27:05:32:32 Added object monitor str 1
+2023:03:27:05:32:32 Added object monitor str 2
+2023:03:27:05:32:32 Added object television str 3
+2023:03:27:05:32:32 Added object television str 4
+2023:03:27:05:32:32 Added object television str 5
+2023:03:27:05:32:32 Added object monitor str 6
+2023:03:27:05:32:32 Before serialization
+2023:03:27:05:32:32 name: Hisense 65E7HQ 2022 QLED
+diagonal: 65.0
+resolution: 3840x2160
+price: 59980
+type led: QLED
+2023:03:27:05:32:32 name: Samsung C24F390FHI
+diagonal: 23.5
+resolution: 1920x1080
+price: 11440
+time response: 4
+2023:03:27:05:32:32 name: AOC AGON PRO AG324UX
+diagonal: 31.5
+resolution: 3840x2160
+price: 79500
+time response: 1
+2023:03:27:05:32:32 name: FUSION FLTV-32A210
+diagonal: 32.0
+resolution: 1366x768
+price: 9470
+type led: LED
+2023:03:27:05:32:32 name: Xiaomi Mi LED TV P1 32 (L32M6-6ARG)
+diagonal: 32.0
+resolution: 1366x768
+price: 25344
+type led: LED
+2023:03:27:05:32:32 name: LG OLED65A2RLA 2022 OLED
+diagonal: 65.0
+resolution: 3840x2160
+price: 157690
+type led: OLED
+2023:03:27:05:32:32 name: LG 27GN850-B
+diagonal: 27.0
+resolution: 2560x1440
+price: 61470
+time response: 1
+2023:03:27:05:32:32 Start seriallization
+2023:03:27:05:32:32 End seriallization
+2023:03:27:05:32:32 Start deseriallization
+2023:03:27:05:32:32 End deserialization
+2023:03:27:05:32:32 After serialization:
+2023:03:27:05:32:32 name: Hisense 65E7HQ 2022 QLED
+diagonal: 65.0
+resolution: 3840x2160
+price: 59980
+type led: QLED
+2023:03:27:05:32:32 name: Samsung C24F390FHI
+diagonal: 23.5
+resolution: 1920x1080
+price: 11440
+time response: 4
+2023:03:27:05:32:32 name: AOC AGON PRO AG324UX
+diagonal: 31.5
+resolution: 3840x2160
+price: 79500
+time response: 1
+2023:03:27:05:32:32 name: FUSION FLTV-32A210
+diagonal: 32.0
+resolution: 1366x768
+price: 9470
+type led: LED
+2023:03:27:05:32:32 name: Xiaomi Mi LED TV P1 32 (L32M6-6ARG)
+diagonal: 32.0
+resolution: 1366x768
+price: 25344
+type led: LED
+2023:03:27:05:32:32 name: LG OLED65A2RLA 2022 OLED
+diagonal: 65.0
+resolution: 3840x2160
+price: 157690
+type led: OLED
+2023:03:27:05:32:32 name: LG 27GN850-B
+diagonal: 27.0
+resolution: 2560x1440
+price: 61470
+time response: 1
+2023:04:04:05:04:01 Not file type
+2023:04:04:05:04:01 Not file 1
+2023:04:04:05:04:01 Not file bool
+2023:04:04:05:04:01 Not file char
+2023:04:04:05:04:01 Succesfull read CSVdata.csv
+2023:04:04:05:04:01 Added object television str 0
+2023:04:04:05:04:01 Added object monitor str 1
+2023:04:04:05:04:01 Added object monitor str 2
+2023:04:04:05:04:01 Added object television str 3
+2023:04:04:05:04:01 Added object television str 4
+2023:04:04:05:04:01 Added object television str 5
+2023:04:04:05:04:01 Added object monitor str 6
+2023:04:04:05:04:01 Before serialization
+2023:04:04:05:04:01 name: Hisense 65E7HQ 2022 QLED
+diagonal: 65.0
+resolution: 3840x2160
+price: 59980
+type led: QLED
+2023:04:04:05:04:01 name: Samsung C24F390FHI
+diagonal: 23.5
+resolution: 1920x1080
+price: 11440
+time response: 4
+2023:04:04:05:04:01 name: AOC AGON PRO AG324UX
+diagonal: 31.5
+resolution: 3840x2160
+price: 79500
+time response: 1
+2023:04:04:05:04:01 name: FUSION FLTV-32A210
+diagonal: 32.0
+resolution: 1366x768
+price: 9470
+type led: LED
+2023:04:04:05:04:01 name: Xiaomi Mi LED TV P1 32 (L32M6-6ARG)
+diagonal: 32.0
+resolution: 1366x768
+price: 25344
+type led: LED
+2023:04:04:05:04:01 name: LG OLED65A2RLA 2022 OLED
+diagonal: 65.0
+resolution: 3840x2160
+price: 157690
+type led: OLED
+2023:04:04:05:04:01 name: LG 27GN850-B
+diagonal: 27.0
+resolution: 2560x1440
+price: 61470
+time response: 1
+2023:04:04:05:04:01 Start seriallization
+2023:04:04:05:04:01 End seriallization
+2023:04:04:05:04:01 Start deseriallization
+2023:04:04:05:04:01 End deserialization
+2023:04:04:05:04:01 After serialization:
+2023:04:04:05:04:01 name: Hisense 65E7HQ 2022 QLED
+diagonal: 65.0
+resolution: 3840x2160
+price: 59980
+type led: QLED
+2023:04:04:05:04:01 name: Samsung C24F390FHI
+diagonal: 23.5
+resolution: 1920x1080
+price: 11440
+time response: 4
+2023:04:04:05:04:01 name: AOC AGON PRO AG324UX
+diagonal: 31.5
+resolution: 3840x2160
+price: 79500
+time response: 1
+2023:04:04:05:04:01 name: FUSION FLTV-32A210
+diagonal: 32.0
+resolution: 1366x768
+price: 9470
+type led: LED
+2023:04:04:05:04:01 name: Xiaomi Mi LED TV P1 32 (L32M6-6ARG)
+diagonal: 32.0
+resolution: 1366x768
+price: 25344
+type led: LED
+2023:04:04:05:04:01 name: LG OLED65A2RLA 2022 OLED
+diagonal: 65.0
+resolution: 3840x2160
+price: 157690
+type led: OLED
+2023:04:04:05:04:01 name: LG 27GN850-B
+diagonal: 27.0
+resolution: 2560x1440
+price: 61470
+time response: 1
+2023:04:04:05:04:11 Not file type
+2023:04:04:05:04:11 Not file 1
+2023:04:04:05:04:11 Not file bool
+2023:04:04:05:04:11 Not file char
+2023:04:04:05:04:11 Succesfull read CSVdata.csv
+2023:04:04:05:04:11 Added object television str 0
+2023:04:04:05:04:11 Added object monitor str 1
+2023:04:04:05:04:11 Added object monitor str 2
+2023:04:04:05:04:11 Added object television str 3
+2023:04:04:05:04:11 Added object television str 4
+2023:04:04:05:04:11 Added object television str 5
+2023:04:04:05:04:11 Added object monitor str 6
+2023:04:04:05:04:11 Before serialization
+2023:04:04:05:04:11 name: Hisense 65E7HQ 2022 QLED
+diagonal: 65.0
+resolution: 3840x2160
+price: 59980
+type led: QLED
+2023:04:04:05:04:11 name: Samsung C24F390FHI
+diagonal: 23.5
+resolution: 1920x1080
+price: 11440
+time response: 4
+2023:04:04:05:04:11 name: AOC AGON PRO AG324UX
+diagonal: 31.5
+resolution: 3840x2160
+price: 79500
+time response: 1
+2023:04:04:05:04:11 name: FUSION FLTV-32A210
+diagonal: 32.0
+resolution: 1366x768
+price: 9470
+type led: LED
+2023:04:04:05:04:11 name: Xiaomi Mi LED TV P1 32 (L32M6-6ARG)
+diagonal: 32.0
+resolution: 1366x768
+price: 25344
+type led: LED
+2023:04:04:05:04:11 name: LG OLED65A2RLA 2022 OLED
+diagonal: 65.0
+resolution: 3840x2160
+price: 157690
+type led: OLED
+2023:04:04:05:04:11 name: LG 27GN850-B
+diagonal: 27.0
+resolution: 2560x1440
+price: 61470
+time response: 1
+2023:04:04:05:04:11 Start seriallization
+2023:04:04:05:04:11 End seriallization
+2023:04:04:05:04:11 Start deseriallization
+2023:04:04:05:04:11 End deserialization
+2023:04:04:05:04:11 After serialization:
+2023:04:04:05:04:11 name: Hisense 65E7HQ 2022 QLED
+diagonal: 65.0
+resolution: 3840x2160
+price: 59980
+type led: QLED
+2023:04:04:05:04:11 name: Samsung C24F390FHI
+diagonal: 23.5
+resolution: 1920x1080
+price: 11440
+time response: 4
+2023:04:04:05:04:11 name: AOC AGON PRO AG324UX
+diagonal: 31.5
+resolution: 3840x2160
+price: 79500
+time response: 1
+2023:04:04:05:04:11 name: FUSION FLTV-32A210
+diagonal: 32.0
+resolution: 1366x768
+price: 9470
+type led: LED
+2023:04:04:05:04:11 name: Xiaomi Mi LED TV P1 32 (L32M6-6ARG)
+diagonal: 32.0
+resolution: 1366x768
+price: 25344
+type led: LED
+2023:04:04:05:04:11 name: LG OLED65A2RLA 2022 OLED
+diagonal: 65.0
+resolution: 3840x2160
+price: 157690
+type led: OLED
+2023:04:04:05:04:11 name: LG 27GN850-B
+diagonal: 27.0
+resolution: 2560x1440
+price: 61470
+time response: 1
+2023:04:04:05:04:50 Not file type
+2023:04:04:05:04:50 Not file 1
+2023:04:04:05:04:50 Not file bool
+2023:04:04:05:04:50 Not file char
+2023:04:04:05:04:50 Succesfull read CSVdata.csv
+2023:04:04:05:04:50 Added object television str 0
+2023:04:04:05:04:50 Added object monitor str 1
+2023:04:04:05:04:50 Added object monitor str 2
+2023:04:04:05:04:50 Added object television str 3
+2023:04:04:05:04:50 Added object television str 4
+2023:04:04:05:04:50 Added object television str 5
+2023:04:04:05:04:50 Added object monitor str 6
+2023:04:04:05:04:50 Before serialization
+2023:04:04:05:04:50 name: Hisense 65E7HQ 2022 QLED
+diagonal: 65.0
+resolution: 3840x2160
+price: 59980
+type led: QLED
+2023:04:04:05:04:50 name: Samsung C24F390FHI
+diagonal: 23.5
+resolution: 1920x1080
+price: 11440
+time response: 4
+2023:04:04:05:04:50 name: AOC AGON PRO AG324UX
+diagonal: 31.5
+resolution: 3840x2160
+price: 79500
+time response: 1
+2023:04:04:05:04:50 name: FUSION FLTV-32A210
+diagonal: 32.0
+resolution: 1366x768
+price: 9470
+type led: LED
+2023:04:04:05:04:50 name: Xiaomi Mi LED TV P1 32 (L32M6-6ARG)
+diagonal: 32.0
+resolution: 1366x768
+price: 25344
+type led: LED
+2023:04:04:05:04:50 name: LG OLED65A2RLA 2022 OLED
+diagonal: 65.0
+resolution: 3840x2160
+price: 157690
+type led: OLED
+2023:04:04:05:04:50 name: LG 27GN850-B
+diagonal: 27.0
+resolution: 2560x1440
+price: 61470
+time response: 1
+2023:04:04:05:04:50 Start seriallization
+2023:04:04:05:04:51 End seriallization
+2023:04:04:05:04:51 Start deseriallization
+2023:04:04:05:04:51 End deserialization
+2023:04:04:05:04:51 After serialization:
+2023:04:04:05:04:51 name: Hisense 65E7HQ 2022 QLED
+diagonal: 65.0
+resolution: 3840x2160
+price: 59980
+type led: QLED
+2023:04:04:05:04:51 name: Samsung C24F390FHI
+diagonal: 23.5
+resolution: 1920x1080
+price: 11440
+time response: 4
+2023:04:04:05:04:51 name: AOC AGON PRO AG324UX
+diagonal: 31.5
+resolution: 3840x2160
+price: 79500
+time response: 1
+2023:04:04:05:04:51 name: FUSION FLTV-32A210
+diagonal: 32.0
+resolution: 1366x768
+price: 9470
+type led: LED
+2023:04:04:05:04:51 name: Xiaomi Mi LED TV P1 32 (L32M6-6ARG)
+diagonal: 32.0
+resolution: 1366x768
+price: 25344
+type led: LED
+2023:04:04:05:04:51 name: LG OLED65A2RLA 2022 OLED
+diagonal: 65.0
+resolution: 3840x2160
+price: 157690
+type led: OLED
+2023:04:04:05:04:51 name: LG 27GN850-B
+diagonal: 27.0
+resolution: 2560x1440
+price: 61470
+time response: 1
+2023:04:04:05:05:24 Not file type
+2023:04:04:05:05:24 Not file 1
+2023:04:04:05:05:24 Not file bool
+2023:04:04:05:05:24 Not file char
+2023:04:04:05:05:24 Succesfull read CSVdata.csv
+2023:04:04:05:05:24 Added object television str 0
+2023:04:04:05:05:24 Added object monitor str 1
+2023:04:04:05:05:24 Added object monitor str 2
+2023:04:04:05:05:24 Added object television str 3
+2023:04:04:05:05:24 Added object television str 4
+2023:04:04:05:05:24 Added object television str 5
+2023:04:04:05:05:24 Added object monitor str 6
+2023:04:04:05:05:24 Before serialization
+2023:04:04:05:05:24 name: Hisense 65E7HQ 2022 QLED
+diagonal: 65.0
+resolution: 3840x2160
+price: 59980
+type led: QLED
+2023:04:04:05:05:24 name: Samsung C24F390FHI
+diagonal: 23.5
+resolution: 1920x1080
+price: 11440
+time response: 4
+2023:04:04:05:05:24 name: AOC AGON PRO AG324UX
+diagonal: 31.5
+resolution: 3840x2160
+price: 79500
+time response: 1
+2023:04:04:05:05:24 name: FUSION FLTV-32A210
+diagonal: 32.0
+resolution: 1366x768
+price: 9470
+type led: LED
+2023:04:04:05:05:24 name: Xiaomi Mi LED TV P1 32 (L32M6-6ARG)
+diagonal: 32.0
+resolution: 1366x768
+price: 25344
+type led: LED
+2023:04:04:05:05:24 name: LG OLED65A2RLA 2022 OLED
+diagonal: 65.0
+resolution: 3840x2160
+price: 157690
+type led: OLED
+2023:04:04:05:05:24 name: LG 27GN850-B
+diagonal: 27.0
+resolution: 2560x1440
+price: 61470
+time response: 1
+2023:04:04:05:05:58 Start seriallization
+2023:04:04:05:06:17 End seriallization
+2023:04:04:05:06:17 Start deseriallization
+2023:04:04:05:06:17 End deserialization
+2023:04:04:05:06:17 After serialization:
+2023:04:04:05:06:17 name: Hisense 65E7HQ 2022 QLED
+diagonal: 65.0
+resolution: 3840x2160
+price: 59980
+type led: QLED
+2023:04:04:05:06:17 name: Samsung C24F390FHI
+diagonal: 23.5
+resolution: 1920x1080
+price: 11440
+time response: 4
+2023:04:04:05:06:17 name: AOC AGON PRO AG324UX
+diagonal: 31.5
+resolution: 3840x2160
+price: 79500
+time response: 1
+2023:04:04:05:06:20 Not file type
+2023:04:04:05:06:20 Not file 1
+2023:04:04:05:06:20 Not file bool
+2023:04:04:05:06:20 Not file char
+2023:04:04:05:06:20 Succesfull read CSVdata.csv
+2023:04:04:05:06:20 Added object television str 0
+2023:04:04:05:06:20 Added object monitor str 1
+2023:04:04:05:06:20 Added object monitor str 2
+2023:04:04:05:06:20 Added object television str 3
+2023:04:04:05:06:20 Added object television str 4
+2023:04:04:05:06:20 Added object television str 5
+2023:04:04:05:06:20 Added object monitor str 6
+2023:04:04:05:06:20 Before serialization
+2023:04:04:05:06:20 name: Hisense 65E7HQ 2022 QLED
+diagonal: 65.0
+resolution: 3840x2160
+price: 59980
+type led: QLED
+2023:04:04:05:06:20 name: Samsung C24F390FHI
+diagonal: 23.5
+resolution: 1920x1080
+price: 11440
+time response: 4
+2023:04:04:05:06:20 name: AOC AGON PRO AG324UX
+diagonal: 31.5
+resolution: 3840x2160
+price: 79500
+time response: 1
+2023:04:04:05:06:20 name: FUSION FLTV-32A210
+diagonal: 32.0
+resolution: 1366x768
+price: 9470
+type led: LED
+2023:04:04:05:06:20 name: Xiaomi Mi LED TV P1 32 (L32M6-6ARG)
+diagonal: 32.0
+resolution: 1366x768
+price: 25344
+type led: LED
+2023:04:04:05:06:20 name: LG OLED65A2RLA 2022 OLED
+diagonal: 65.0
+resolution: 3840x2160
+price: 157690
+type led: OLED
+2023:04:04:05:06:20 name: LG 27GN850-B
+diagonal: 27.0
+resolution: 2560x1440
+price: 61470
+time response: 1
+2023:04:04:05:06:20 Start seriallization
+2023:04:04:05:06:20 End seriallization
+2023:04:04:05:06:20 Start deseriallization
+2023:04:04:05:06:20 End deserialization
+2023:04:04:05:06:20 After serialization:
+2023:04:04:05:06:20 name: Hisense 65E7HQ 2022 QLED
+diagonal: 65.0
+resolution: 3840x2160
+price: 59980
+type led: QLED
+2023:04:04:05:06:20 name: Samsung C24F390FHI
+diagonal: 23.5
+resolution: 1920x1080
+price: 11440
+time response: 4
+2023:04:04:05:06:20 name: AOC AGON PRO AG324UX
+diagonal: 31.5
+resolution: 3840x2160
+price: 79500
+time response: 1
+2023:04:04:05:06:20 name: FUSION FLTV-32A210
+diagonal: 32.0
+resolution: 1366x768
+price: 9470
+type led: LED
+2023:04:04:05:06:20 name: Xiaomi Mi LED TV P1 32 (L32M6-6ARG)
+diagonal: 32.0
+resolution: 1366x768
+price: 25344
+type led: LED
+2023:04:04:05:06:20 name: LG OLED65A2RLA 2022 OLED
+diagonal: 65.0
+resolution: 3840x2160
+price: 157690
+type led: OLED
+2023:04:04:05:06:20 name: LG 27GN850-B
+diagonal: 27.0
+resolution: 2560x1440
+price: 61470
+time response: 1
+2023:04:04:05:06:55 Not file type
+2023:04:04:05:06:55 Not file 1
+2023:04:04:05:06:55 Not file bool
+2023:04:04:05:06:55 Not file char
+2023:04:04:05:06:55 Succesfull read CSVdata.csv
+2023:04:04:05:06:55 Added object television str 0
+2023:04:04:05:06:55 Added object monitor str 1
+2023:04:04:05:06:55 Added object monitor str 2
+2023:04:04:05:06:55 Added object television str 3
+2023:04:04:05:06:55 Added object television str 4
+2023:04:04:05:06:55 Added object television str 5
+2023:04:04:05:06:55 Added object monitor str 6
+2023:04:04:05:06:55 Before serialization
+2023:04:04:05:06:55 name: Hisense 65E7HQ 2022 QLED
+diagonal: 65.0
+resolution: 3840x2160
+price: 59980
+type led: QLED
+2023:04:04:05:06:55 name: Samsung C24F390FHI
+diagonal: 23.5
+resolution: 1920x1080
+price: 11440
+time response: 4
+2023:04:04:05:06:55 name: AOC AGON PRO AG324UX
+diagonal: 31.5
+resolution: 3840x2160
+price: 79500
+time response: 1
+2023:04:04:05:06:55 name: FUSION FLTV-32A210
+diagonal: 32.0
+resolution: 1366x768
+price: 9470
+type led: LED
+2023:04:04:05:06:55 name: Xiaomi Mi LED TV P1 32 (L32M6-6ARG)
+diagonal: 32.0
+resolution: 1366x768
+price: 25344
+type led: LED
+2023:04:04:05:06:55 name: LG OLED65A2RLA 2022 OLED
+diagonal: 65.0
+resolution: 3840x2160
+price: 157690
+type led: OLED
+2023:04:04:05:06:55 name: LG 27GN850-B
+diagonal: 27.0
+resolution: 2560x1440
+price: 61470
+time response: 1
+2023:04:04:05:06:55 Start seriallization
+2023:04:04:05:06:55 End seriallization
+2023:04:04:05:06:55 Start deseriallization
+2023:04:04:05:06:55 End deserialization
+2023:04:04:05:06:55 After serialization:
+2023:04:04:05:06:55 name: Hisense 65E7HQ 2022 QLED
+diagonal: 65.0
+resolution: 3840x2160
+price: 59980
+type led: QLED
+2023:04:04:05:06:55 name: Samsung C24F390FHI
+diagonal: 23.5
+resolution: 1920x1080
+price: 11440
+time response: 4
+2023:04:04:05:06:55 name: AOC AGON PRO AG324UX
+diagonal: 31.5
+resolution: 3840x2160
+price: 79500
+time response: 1
+2023:04:04:05:06:55 name: FUSION FLTV-32A210
+diagonal: 32.0
+resolution: 1366x768
+price: 9470
+type led: LED
+2023:04:04:05:06:55 name: Xiaomi Mi LED TV P1 32 (L32M6-6ARG)
+diagonal: 32.0
+resolution: 1366x768
+price: 25344
+type led: LED
+2023:04:04:05:06:55 name: LG OLED65A2RLA 2022 OLED
+diagonal: 65.0
+resolution: 3840x2160
+price: 157690
+type led: OLED
+2023:04:04:05:06:55 name: LG 27GN850-B
+diagonal: 27.0
+resolution: 2560x1440
+price: 61470
+time response: 1
+2023:04:04:05:07:13 Not file type
+2023:04:04:05:07:13 Not file 1
+2023:04:04:05:07:13 Not file bool
+2023:04:04:05:07:13 Not file char
+2023:04:04:05:07:13 Succesfull read CSVdata.csv
+2023:04:04:05:07:13 Added object television str 0
+2023:04:04:05:07:13 Added object monitor str 1
+2023:04:04:05:07:13 Added object monitor str 2
+2023:04:04:05:07:13 Added object television str 3
+2023:04:04:05:07:13 Added object television str 4
+2023:04:04:05:07:13 Added object television str 5
+2023:04:04:05:07:13 Added object monitor str 6
+2023:04:04:05:07:13 Before serialization
+2023:04:04:05:07:13 name: Hisense 65E7HQ 2022 QLED
+diagonal: 65.0
+resolution: 3840x2160
+price: 59980
+type led: QLED
+2023:04:04:05:07:13 name: Samsung C24F390FHI
+diagonal: 23.5
+resolution: 1920x1080
+price: 11440
+time response: 4
+2023:04:04:05:07:13 name: AOC AGON PRO AG324UX
+diagonal: 31.5
+resolution: 3840x2160
+price: 79500
+time response: 1
+2023:04:04:05:07:13 name: FUSION FLTV-32A210
+diagonal: 32.0
+resolution: 1366x768
+price: 9470
+type led: LED
+2023:04:04:05:07:13 name: Xiaomi Mi LED TV P1 32 (L32M6-6ARG)
+diagonal: 32.0
+resolution: 1366x768
+price: 25344
+type led: LED
+2023:04:04:05:07:13 name: LG OLED65A2RLA 2022 OLED
+diagonal: 65.0
+resolution: 3840x2160
+price: 157690
+type led: OLED
+2023:04:04:05:07:13 name: LG 27GN850-B
+diagonal: 27.0
+resolution: 2560x1440
+price: 61470
+time response: 1
+2023:04:04:05:07:26 Start seriallization
+2023:04:04:05:07:49 Not file type
+2023:04:04:05:07:49 Not file 1
+2023:04:04:05:07:49 Not file bool
+2023:04:04:05:07:49 Not file char
+2023:04:04:05:07:49 Succesfull read CSVdata.csv
+2023:04:04:05:07:49 Added object television str 0
+2023:04:04:05:07:49 Added object monitor str 1
+2023:04:04:05:07:49 Added object monitor str 2
+2023:04:04:05:07:49 Added object television str 3
+2023:04:04:05:07:49 Added object television str 4
+2023:04:04:05:07:49 Added object television str 5
+2023:04:04:05:07:49 Added object monitor str 6
+2023:04:04:05:07:49 Before serialization
+2023:04:04:05:07:49 name: Hisense 65E7HQ 2022 QLED
+diagonal: 65.0
+resolution: 3840x2160
+price: 59980
+type led: QLED
+2023:04:04:05:07:49 name: Samsung C24F390FHI
+diagonal: 23.5
+resolution: 1920x1080
+price: 11440
+time response: 4
+2023:04:04:05:07:49 name: AOC AGON PRO AG324UX
+diagonal: 31.5
+resolution: 3840x2160
+price: 79500
+time response: 1
+2023:04:04:05:07:49 name: FUSION FLTV-32A210
+diagonal: 32.0
+resolution: 1366x768
+price: 9470
+type led: LED
+2023:04:04:05:07:49 name: Xiaomi Mi LED TV P1 32 (L32M6-6ARG)
+diagonal: 32.0
+resolution: 1366x768
+price: 25344
+type led: LED
+2023:04:04:05:07:49 name: LG OLED65A2RLA 2022 OLED
+diagonal: 65.0
+resolution: 3840x2160
+price: 157690
+type led: OLED
+2023:04:04:05:07:49 name: LG 27GN850-B
+diagonal: 27.0
+resolution: 2560x1440
+price: 61470
+time response: 1
+2023:04:04:05:07:49 Start seriallization
+2023:04:04:05:07:49 End seriallization
+2023:04:04:05:07:49 Start deseriallization
+2023:04:04:05:07:49 End deserialization
+2023:04:04:05:07:49 After serialization:
+2023:04:04:05:07:49 name: Hisense 65E7HQ 2022 QLED
+diagonal: 65.0
+resolution: 3840x2160
+price: 59980
+type led: QLED
+2023:04:04:05:07:49 name: Samsung C24F390FHI
+diagonal: 23.5
+resolution: 1920x1080
+price: 11440
+time response: 4
+2023:04:04:05:07:49 name: AOC AGON PRO AG324UX
+diagonal: 31.5
+resolution: 3840x2160
+price: 79500
+time response: 1
+2023:04:04:05:07:49 name: FUSION FLTV-32A210
+diagonal: 32.0
+resolution: 1366x768
+price: 9470
+type led: LED
+2023:04:04:05:07:49 name: Xiaomi Mi LED TV P1 32 (L32M6-6ARG)
+diagonal: 32.0
+resolution: 1366x768
+price: 25344
+type led: LED
+2023:04:04:05:07:49 name: LG OLED65A2RLA 2022 OLED
+diagonal: 65.0
+resolution: 3840x2160
+price: 157690
+type led: OLED
+2023:04:04:05:07:49 name: LG 27GN850-B
+diagonal: 27.0
+resolution: 2560x1440
+price: 61470
+time response: 1
+2023:04:06:04:32:33 Not file type
+2023:04:06:04:32:33 Not file 1
+2023:04:06:04:32:33 Not file bool
+2023:04:06:04:32:33 Not file char
+2023:04:06:04:32:33 Succesfull read CSVdata.csv
+2023:04:06:04:32:33 Added object television str 0
+2023:04:06:04:32:33 Added object monitor str 1
+2023:04:06:04:32:33 Added object monitor str 2
+2023:04:06:04:32:33 Added object television str 3
+2023:04:06:04:32:33 Added object television str 4
+2023:04:06:04:32:33 Added object television str 5
+2023:04:06:04:32:33 Added object monitor str 6
+2023:04:06:04:32:33 Before serialization
+2023:04:06:04:32:33 name: Hisense 65E7HQ 2022 QLED
+diagonal: 65.0
+resolution: 3840x2160
+price: 59980
+type led: QLED
+2023:04:06:04:32:33 name: Samsung C24F390FHI
+diagonal: 23.5
+resolution: 1920x1080
+price: 11440
+time response: 4
+2023:04:06:04:32:33 name: AOC AGON PRO AG324UX
+diagonal: 31.5
+resolution: 3840x2160
+price: 79500
+time response: 1
+2023:04:06:04:32:33 name: FUSION FLTV-32A210
+diagonal: 32.0
+resolution: 1366x768
+price: 9470
+type led: LED
+2023:04:06:04:32:33 name: Xiaomi Mi LED TV P1 32 (L32M6-6ARG)
+diagonal: 32.0
+resolution: 1366x768
+price: 25344
+type led: LED
+2023:04:06:04:32:33 name: LG OLED65A2RLA 2022 OLED
+diagonal: 65.0
+resolution: 3840x2160
+price: 157690
+type led: OLED
+2023:04:06:04:32:33 name: LG 27GN850-B
+diagonal: 27.0
+resolution: 2560x1440
+price: 61470
+time response: 1
+2023:04:06:04:32:33 Start seriallization
+2023:04:06:04:32:33 End seriallization
+2023:04:06:04:32:33 Start deseriallization
+2023:04:06:04:32:33 End deserialization
+2023:04:06:04:32:33 After serialization:
+2023:04:06:04:32:33 name: Hisense 65E7HQ 2022 QLED
+diagonal: 65.0
+resolution: 3840x2160
+price: 59980
+type led: QLED
+2023:04:06:04:32:33 name: Samsung C24F390FHI
+diagonal: 23.5
+resolution: 1920x1080
+price: 11440
+time response: 4
+2023:04:06:04:32:33 name: AOC AGON PRO AG324UX
+diagonal: 31.5
+resolution: 3840x2160
+price: 79500
+time response: 1
+2023:04:06:04:32:33 name: FUSION FLTV-32A210
+diagonal: 32.0
+resolution: 1366x768
+price: 9470
+type led: LED
+2023:04:06:04:32:33 name: Xiaomi Mi LED TV P1 32 (L32M6-6ARG)
+diagonal: 32.0
+resolution: 1366x768
+price: 25344
+type led: LED
+2023:04:06:04:32:33 name: LG OLED65A2RLA 2022 OLED
+diagonal: 65.0
+resolution: 3840x2160
+price: 157690
+type led: OLED
+2023:04:06:04:32:33 name: LG 27GN850-B
+diagonal: 27.0
+resolution: 2560x1440
+price: 61470
+time response: 1
+2023:04:06:04:32:54 Not file type
+2023:04:06:04:32:54 Not file 1
+2023:04:06:04:32:54 Not file bool
+2023:04:06:04:32:54 Not file char
+2023:04:06:04:32:54 Succesfull read CSVdata.csv
+2023:04:06:04:32:54 Added object television str 0
+2023:04:06:04:32:54 Added object monitor str 1
+2023:04:06:04:32:54 Added object monitor str 2
+2023:04:06:04:32:54 Added object television str 3
+2023:04:06:04:32:54 Added object television str 4
+2023:04:06:04:32:54 Added object television str 5
+2023:04:06:04:32:54 Added object monitor str 6
+2023:04:06:04:32:54 Before serialization
+2023:04:06:04:32:54 name: Hisense 65E7HQ 2022 QLED
+diagonal: 65.0
+resolution: 3840x2160
+price: 59980
+type led: QLED
+2023:04:06:04:32:54 name: Samsung C24F390FHI
+diagonal: 23.5
+resolution: 1920x1080
+price: 11440
+time response: 4
+2023:04:06:04:32:54 name: AOC AGON PRO AG324UX
+diagonal: 31.5
+resolution: 3840x2160
+price: 79500
+time response: 1
+2023:04:06:04:32:54 name: FUSION FLTV-32A210
+diagonal: 32.0
+resolution: 1366x768
+price: 9470
+type led: LED
+2023:04:06:04:32:54 name: Xiaomi Mi LED TV P1 32 (L32M6-6ARG)
+diagonal: 32.0
+resolution: 1366x768
+price: 25344
+type led: LED
+2023:04:06:04:32:54 name: LG OLED65A2RLA 2022 OLED
+diagonal: 65.0
+resolution: 3840x2160
+price: 157690
+type led: OLED
+2023:04:06:04:32:54 name: LG 27GN850-B
+diagonal: 27.0
+resolution: 2560x1440
+price: 61470
+time response: 1
+2023:04:06:04:32:54 Start seriallization
+2023:04:06:04:32:54 End seriallization
+2023:04:06:04:32:54 Start deseriallization
+2023:04:06:04:32:54 End deserialization
+2023:04:06:04:32:54 After serialization:
+2023:04:06:04:32:54 name: Hisense 65E7HQ 2022 QLED
+diagonal: 65.0
+resolution: 3840x2160
+price: 59980
+type led: QLED
+2023:04:06:04:32:54 name: Samsung C24F390FHI
+diagonal: 23.5
+resolution: 1920x1080
+price: 11440
+time response: 4
+2023:04:06:04:32:54 name: AOC AGON PRO AG324UX
+diagonal: 31.5
+resolution: 3840x2160
+price: 79500
+time response: 1
+2023:04:06:04:32:54 name: FUSION FLTV-32A210
+diagonal: 32.0
+resolution: 1366x768
+price: 9470
+type led: LED
+2023:04:06:04:32:54 name: Xiaomi Mi LED TV P1 32 (L32M6-6ARG)
+diagonal: 32.0
+resolution: 1366x768
+price: 25344
+type led: LED
+2023:04:06:04:32:54 name: LG OLED65A2RLA 2022 OLED
+diagonal: 65.0
+resolution: 3840x2160
+price: 157690
+type led: OLED
+2023:04:06:04:32:54 name: LG 27GN850-B
+diagonal: 27.0
+resolution: 2560x1440
+price: 61470
+time response: 1
+2023:04:06:04:32:59 Not file type
+2023:04:06:04:32:59 Not file 1
+2023:04:06:04:32:59 Not file bool
+2023:04:06:04:32:59 Not file char
+2023:04:06:04:32:59 Succesfull read CSVdata.csv
+2023:04:06:04:32:59 Added object television str 0
+2023:04:06:04:32:59 Added object monitor str 1
+2023:04:06:04:32:59 Added object monitor str 2
+2023:04:06:04:32:59 Added object television str 3
+2023:04:06:04:32:59 Added object television str 4
+2023:04:06:04:32:59 Added object television str 5
+2023:04:06:04:32:59 Added object monitor str 6
+2023:04:06:04:32:59 Before serialization
+2023:04:06:04:32:59 name: Hisense 65E7HQ 2022 QLED
+diagonal: 65.0
+resolution: 3840x2160
+price: 59980
+type led: QLED
+2023:04:06:04:32:59 name: Samsung C24F390FHI
+diagonal: 23.5
+resolution: 1920x1080
+price: 11440
+time response: 4
+2023:04:06:04:32:59 name: AOC AGON PRO AG324UX
+diagonal: 31.5
+resolution: 3840x2160
+price: 79500
+time response: 1
+2023:04:06:04:32:59 name: FUSION FLTV-32A210
+diagonal: 32.0
+resolution: 1366x768
+price: 9470
+type led: LED
+2023:04:06:04:32:59 name: Xiaomi Mi LED TV P1 32 (L32M6-6ARG)
+diagonal: 32.0
+resolution: 1366x768
+price: 25344
+type led: LED
+2023:04:06:04:32:59 name: LG OLED65A2RLA 2022 OLED
+diagonal: 65.0
+resolution: 3840x2160
+price: 157690
+type led: OLED
+2023:04:06:04:32:59 name: LG 27GN850-B
+diagonal: 27.0
+resolution: 2560x1440
+price: 61470
+time response: 1
+2023:04:06:04:32:59 Start seriallization
+2023:04:06:04:32:59 End seriallization
+2023:04:06:04:32:59 Start deseriallization
+2023:04:06:04:32:59 End deserialization
+2023:04:06:04:32:59 After serialization:
+2023:04:06:04:32:59 name: Hisense 65E7HQ 2022 QLED
+diagonal: 65.0
+resolution: 3840x2160
+price: 59980
+type led: QLED
+2023:04:06:04:32:59 name: Samsung C24F390FHI
+diagonal: 23.5
+resolution: 1920x1080
+price: 11440
+time response: 4
+2023:04:06:04:32:59 name: AOC AGON PRO AG324UX
+diagonal: 31.5
+resolution: 3840x2160
+price: 79500
+time response: 1
+2023:04:06:04:32:59 name: FUSION FLTV-32A210
+diagonal: 32.0
+resolution: 1366x768
+price: 9470
+type led: LED
+2023:04:06:04:32:59 name: Xiaomi Mi LED TV P1 32 (L32M6-6ARG)
+diagonal: 32.0
+resolution: 1366x768
+price: 25344
+type led: LED
+2023:04:06:04:32:59 name: LG OLED65A2RLA 2022 OLED
+diagonal: 65.0
+resolution: 3840x2160
+price: 157690
+type led: OLED
+2023:04:06:04:32:59 name: LG 27GN850-B
+diagonal: 27.0
+resolution: 2560x1440
+price: 61470
+time response: 1
+2023:04:06:04:33:36 Not file type
+2023:04:06:04:33:36 Not file 1
+2023:04:06:04:33:36 Not file bool
+2023:04:06:04:33:36 Not file char
+2023:04:06:04:33:36 Succesfull read CSVdata.csv
+2023:04:06:04:33:36 Added object television str 0
+2023:04:06:04:33:36 Added object monitor str 1
+2023:04:06:04:33:36 Added object monitor str 2
+2023:04:06:04:33:36 Added object television str 3
+2023:04:06:04:33:36 Added object television str 4
+2023:04:06:04:33:36 Added object television str 5
+2023:04:06:04:33:36 Added object monitor str 6
+2023:04:06:04:33:36 Before serialization
+2023:04:06:04:33:36 name: Hisense 65E7HQ 2022 QLED
+diagonal: 65.0
+resolution: 3840x2160
+price: 59980
+type led: QLED
+2023:04:06:04:33:36 name: Samsung C24F390FHI
+diagonal: 23.5
+resolution: 1920x1080
+price: 11440
+time response: 4
+2023:04:06:04:33:36 name: AOC AGON PRO AG324UX
+diagonal: 31.5
+resolution: 3840x2160
+price: 79500
+time response: 1
+2023:04:06:04:33:36 name: FUSION FLTV-32A210
+diagonal: 32.0
+resolution: 1366x768
+price: 9470
+type led: LED
+2023:04:06:04:33:36 name: Xiaomi Mi LED TV P1 32 (L32M6-6ARG)
+diagonal: 32.0
+resolution: 1366x768
+price: 25344
+type led: LED
+2023:04:06:04:33:36 name: LG OLED65A2RLA 2022 OLED
+diagonal: 65.0
+resolution: 3840x2160
+price: 157690
+type led: OLED
+2023:04:06:04:33:36 name: LG 27GN850-B
+diagonal: 27.0
+resolution: 2560x1440
+price: 61470
+time response: 1
+2023:04:06:04:33:36 Start seriallization
+2023:04:06:04:33:36 End seriallization
+2023:04:06:04:33:36 Start deseriallization
+2023:04:06:04:33:36 End deserialization
+2023:04:06:04:33:36 After serialization:
+2023:04:06:04:33:36 name: Hisense 65E7HQ 2022 QLED
+diagonal: 65.0
+resolution: 3840x2160
+price: 59980
+type led: QLED
+2023:04:06:04:33:36 name: Samsung C24F390FHI
+diagonal: 23.5
+resolution: 1920x1080
+price: 11440
+time response: 4
+2023:04:06:04:33:36 name: AOC AGON PRO AG324UX
+diagonal: 31.5
+resolution: 3840x2160
+price: 79500
+time response: 1
+2023:04:06:04:33:36 name: FUSION FLTV-32A210
+diagonal: 32.0
+resolution: 1366x768
+price: 9470
+type led: LED
+2023:04:06:04:33:36 name: Xiaomi Mi LED TV P1 32 (L32M6-6ARG)
+diagonal: 32.0
+resolution: 1366x768
+price: 25344
+type led: LED
+2023:04:06:04:33:36 name: LG OLED65A2RLA 2022 OLED
+diagonal: 65.0
+resolution: 3840x2160
+price: 157690
+type led: OLED
+2023:04:06:04:33:36 name: LG 27GN850-B
+diagonal: 27.0
+resolution: 2560x1440
+price: 61470
+time response: 1
+2023:04:06:04:33:43 Not file type
+2023:04:06:04:33:43 Not file 1
+2023:04:06:04:33:43 Not file bool
+2023:04:06:04:33:43 Not file char
+2023:04:06:04:33:43 Succesfull read CSVdata.csv
+2023:04:06:04:33:43 Added object television str 0
+2023:04:06:04:33:43 Added object monitor str 1
+2023:04:06:04:33:43 Added object monitor str 2
+2023:04:06:04:33:43 Added object television str 3
+2023:04:06:04:33:43 Added object television str 4
+2023:04:06:04:33:43 Added object television str 5
+2023:04:06:04:33:43 Added object monitor str 6
+2023:04:06:04:33:43 Before serialization
+2023:04:06:04:33:43 name: Hisense 65E7HQ 2022 QLED
+diagonal: 65.0
+resolution: 3840x2160
+price: 59980
+type led: QLED
+2023:04:06:04:33:43 name: Samsung C24F390FHI
+diagonal: 23.5
+resolution: 1920x1080
+price: 11440
+time response: 4
+2023:04:06:04:33:43 name: AOC AGON PRO AG324UX
+diagonal: 31.5
+resolution: 3840x2160
+price: 79500
+time response: 1
+2023:04:06:04:33:43 name: FUSION FLTV-32A210
+diagonal: 32.0
+resolution: 1366x768
+price: 9470
+type led: LED
+2023:04:06:04:33:43 name: Xiaomi Mi LED TV P1 32 (L32M6-6ARG)
+diagonal: 32.0
+resolution: 1366x768
+price: 25344
+type led: LED
+2023:04:06:04:33:43 name: LG OLED65A2RLA 2022 OLED
+diagonal: 65.0
+resolution: 3840x2160
+price: 157690
+type led: OLED
+2023:04:06:04:33:43 name: LG 27GN850-B
+diagonal: 27.0
+resolution: 2560x1440
+price: 61470
+time response: 1
+2023:04:06:04:33:43 Start seriallization
+2023:04:06:04:33:43 End seriallization
+2023:04:06:04:33:43 Start deseriallization
+2023:04:06:04:33:43 End deserialization
+2023:04:06:04:33:43 After serialization:
+2023:04:06:04:33:43 name: Hisense 65E7HQ 2022 QLED
+diagonal: 65.0
+resolution: 3840x2160
+price: 59980
+type led: QLED
+2023:04:06:04:33:43 name: Samsung C24F390FHI
+diagonal: 23.5
+resolution: 1920x1080
+price: 11440
+time response: 4
+2023:04:06:04:33:43 name: AOC AGON PRO AG324UX
+diagonal: 31.5
+resolution: 3840x2160
+price: 79500
+time response: 1
+2023:04:06:04:33:43 name: FUSION FLTV-32A210
+diagonal: 32.0
+resolution: 1366x768
+price: 9470
+type led: LED
+2023:04:06:04:33:43 name: Xiaomi Mi LED TV P1 32 (L32M6-6ARG)
+diagonal: 32.0
+resolution: 1366x768
+price: 25344
+type led: LED
+2023:04:06:04:33:43 name: LG OLED65A2RLA 2022 OLED
+diagonal: 65.0
+resolution: 3840x2160
+price: 157690
+type led: OLED
+2023:04:06:04:33:43 name: LG 27GN850-B
+diagonal: 27.0
+resolution: 2560x1440
+price: 61470
+time response: 1
+2023:04:06:04:33:57 Not file type
+2023:04:06:04:33:57 Not file 1
+2023:04:06:04:33:57 Not file bool
+2023:04:06:04:33:57 Not file char
+2023:04:06:04:33:57 Succesfull read CSVdata.csv
+2023:04:06:04:33:57 Added object television str 0
+2023:04:06:04:33:57 Added object monitor str 1
+2023:04:06:04:33:57 Added object monitor str 2
+2023:04:06:04:33:57 Added object television str 3
+2023:04:06:04:33:57 Added object television str 4
+2023:04:06:04:33:57 Added object television str 5
+2023:04:06:04:33:57 Added object monitor str 6
+2023:04:06:04:33:57 Before serialization
+2023:04:06:04:33:57 name: Hisense 65E7HQ 2022 QLED
+diagonal: 65.0
+resolution: 3840x2160
+price: 59980
+type led: QLED
+2023:04:06:04:33:57 name: Samsung C24F390FHI
+diagonal: 23.5
+resolution: 1920x1080
+price: 11440
+time response: 4
+2023:04:06:04:33:57 name: AOC AGON PRO AG324UX
+diagonal: 31.5
+resolution: 3840x2160
+price: 79500
+time response: 1
+2023:04:06:04:33:57 name: FUSION FLTV-32A210
+diagonal: 32.0
+resolution: 1366x768
+price: 9470
+type led: LED
+2023:04:06:04:33:57 name: Xiaomi Mi LED TV P1 32 (L32M6-6ARG)
+diagonal: 32.0
+resolution: 1366x768
+price: 25344
+type led: LED
+2023:04:06:04:33:57 name: LG OLED65A2RLA 2022 OLED
+diagonal: 65.0
+resolution: 3840x2160
+price: 157690
+type led: OLED
+2023:04:06:04:33:57 name: LG 27GN850-B
+diagonal: 27.0
+resolution: 2560x1440
+price: 61470
+time response: 1
+2023:04:06:04:33:57 Start seriallization
+2023:04:06:04:33:57 End seriallization
+2023:04:06:04:33:57 Start deseriallization
+2023:04:06:04:33:57 End deserialization
+2023:04:06:04:33:57 After serialization:
+2023:04:06:04:33:57 name: Hisense 65E7HQ 2022 QLED
+diagonal: 65.0
+resolution: 3840x2160
+price: 59980
+type led: QLED
+2023:04:06:04:33:57 name: Samsung C24F390FHI
+diagonal: 23.5
+resolution: 1920x1080
+price: 11440
+time response: 4
+2023:04:06:04:33:57 name: AOC AGON PRO AG324UX
+diagonal: 31.5
+resolution: 3840x2160
+price: 79500
+time response: 1
+2023:04:06:04:33:57 name: FUSION FLTV-32A210
+diagonal: 32.0
+resolution: 1366x768
+price: 9470
+type led: LED
+2023:04:06:04:33:57 name: Xiaomi Mi LED TV P1 32 (L32M6-6ARG)
+diagonal: 32.0
+resolution: 1366x768
+price: 25344
+type led: LED
+2023:04:06:04:33:57 name: LG OLED65A2RLA 2022 OLED
+diagonal: 65.0
+resolution: 3840x2160
+price: 157690
+type led: OLED
+2023:04:06:04:33:57 name: LG 27GN850-B
+diagonal: 27.0
+resolution: 2560x1440
+price: 61470
+time response: 1
+2023:04:06:04:34:09 Not file type
+2023:04:06:04:34:09 Not file 1
+2023:04:06:04:34:09 Not file bool
+2023:04:06:04:34:09 Not file char
+2023:04:06:04:34:09 Succesfull read CSVdata.csv
+2023:04:06:04:34:09 Added object television str 0
+2023:04:06:04:34:09 Added object monitor str 1
+2023:04:06:04:34:09 Added object monitor str 2
+2023:04:06:04:34:09 Added object television str 3
+2023:04:06:04:34:09 Added object television str 4
+2023:04:06:04:34:09 Added object television str 5
+2023:04:06:04:34:09 Added object monitor str 6
+2023:04:06:04:34:09 Before serialization
+2023:04:06:04:34:09 name: Hisense 65E7HQ 2022 QLED
+diagonal: 65.0
+resolution: 3840x2160
+price: 59980
+type led: QLED
+2023:04:06:04:34:09 name: Samsung C24F390FHI
+diagonal: 23.5
+resolution: 1920x1080
+price: 11440
+time response: 4
+2023:04:06:04:34:09 name: AOC AGON PRO AG324UX
+diagonal: 31.5
+resolution: 3840x2160
+price: 79500
+time response: 1
+2023:04:06:04:34:09 name: FUSION FLTV-32A210
+diagonal: 32.0
+resolution: 1366x768
+price: 9470
+type led: LED
+2023:04:06:04:34:09 name: Xiaomi Mi LED TV P1 32 (L32M6-6ARG)
+diagonal: 32.0
+resolution: 1366x768
+price: 25344
+type led: LED
+2023:04:06:04:34:09 name: LG OLED65A2RLA 2022 OLED
+diagonal: 65.0
+resolution: 3840x2160
+price: 157690
+type led: OLED
+2023:04:06:04:34:09 name: LG 27GN850-B
+diagonal: 27.0
+resolution: 2560x1440
+price: 61470
+time response: 1
+2023:04:06:04:34:09 Start seriallization
+2023:04:06:04:34:09 End seriallization
+2023:04:06:04:34:09 Start deseriallization
+2023:04:06:04:34:09 End deserialization
+2023:04:06:04:34:09 After serialization:
+2023:04:06:04:34:09 name: Hisense 65E7HQ 2022 QLED
+diagonal: 65.0
+resolution: 3840x2160
+price: 59980
+type led: QLED
+2023:04:06:04:34:09 name: Samsung C24F390FHI
+diagonal: 23.5
+resolution: 1920x1080
+price: 11440
+time response: 4
+2023:04:06:04:34:09 name: AOC AGON PRO AG324UX
+diagonal: 31.5
+resolution: 3840x2160
+price: 79500
+time response: 1
+2023:04:06:04:34:09 name: FUSION FLTV-32A210
+diagonal: 32.0
+resolution: 1366x768
+price: 9470
+type led: LED
+2023:04:06:04:34:09 name: Xiaomi Mi LED TV P1 32 (L32M6-6ARG)
+diagonal: 32.0
+resolution: 1366x768
+price: 25344
+type led: LED
+2023:04:06:04:34:09 name: LG OLED65A2RLA 2022 OLED
+diagonal: 65.0
+resolution: 3840x2160
+price: 157690
+type led: OLED
+2023:04:06:04:34:09 name: LG 27GN850-B
+diagonal: 27.0
+resolution: 2560x1440
+price: 61470
+time response: 1
+2023:04:06:04:34:19 Not file type
+2023:04:06:04:34:19 Not file 1
+2023:04:06:04:34:19 Not file bool
+2023:04:06:04:34:19 Not file char
+2023:04:06:04:34:19 Succesfull read CSVdata.csv
+2023:04:06:04:34:19 Added object television str 0
+2023:04:06:04:34:19 Added object monitor str 1
+2023:04:06:04:34:19 Added object monitor str 2
+2023:04:06:04:34:19 Added object television str 3
+2023:04:06:04:34:19 Added object television str 4
+2023:04:06:04:34:19 Added object television str 5
+2023:04:06:04:34:19 Added object monitor str 6
+2023:04:06:04:34:19 Before serialization
+2023:04:06:04:34:19 name: Hisense 65E7HQ 2022 QLED
+diagonal: 65.0
+resolution: 3840x2160
+price: 59980
+type led: QLED
+2023:04:06:04:34:19 name: Samsung C24F390FHI
+diagonal: 23.5
+resolution: 1920x1080
+price: 11440
+time response: 4
+2023:04:06:04:34:19 name: AOC AGON PRO AG324UX
+diagonal: 31.5
+resolution: 3840x2160
+price: 79500
+time response: 1
+2023:04:06:04:34:19 name: FUSION FLTV-32A210
+diagonal: 32.0
+resolution: 1366x768
+price: 9470
+type led: LED
+2023:04:06:04:34:19 name: Xiaomi Mi LED TV P1 32 (L32M6-6ARG)
+diagonal: 32.0
+resolution: 1366x768
+price: 25344
+type led: LED
+2023:04:06:04:34:19 name: LG OLED65A2RLA 2022 OLED
+diagonal: 65.0
+resolution: 3840x2160
+price: 157690
+type led: OLED
+2023:04:06:04:34:19 name: LG 27GN850-B
+diagonal: 27.0
+resolution: 2560x1440
+price: 61470
+time response: 1
+2023:04:06:04:34:19 Start seriallization
+2023:04:06:04:34:26 End seriallization
+2023:04:06:04:34:26 Start deseriallization
+2023:04:06:04:34:26 End deserialization
+2023:04:06:04:34:26 After serialization:
+2023:04:06:04:34:26 name: Hisense 65E7HQ 2022 QLED
+diagonal: 65.0
+resolution: 3840x2160
+price: 59980
+type led: QLED
+2023:04:06:04:34:26 name: Samsung C24F390FHI
+diagonal: 23.5
+resolution: 1920x1080
+price: 11440
+time response: 4
+2023:04:06:04:34:26 name: AOC AGON PRO AG324UX
+diagonal: 31.5
+resolution: 3840x2160
+price: 79500
+time response: 1
+2023:04:06:04:34:26 name: FUSION FLTV-32A210
+diagonal: 32.0
+resolution: 1366x768
+price: 9470
+type led: LED
+2023:04:06:04:34:26 name: Xiaomi Mi LED TV P1 32 (L32M6-6ARG)
+diagonal: 32.0
+resolution: 1366x768
+price: 25344
+type led: LED
+2023:04:06:04:34:26 name: LG OLED65A2RLA 2022 OLED
+diagonal: 65.0
+resolution: 3840x2160
+price: 157690
+type led: OLED
+2023:04:06:04:34:26 name: LG 27GN850-B
+diagonal: 27.0
+resolution: 2560x1440
+price: 61470
+time response: 1
+2023:04:06:05:48:20 Not file type
+2023:04:06:05:48:20 Not file 1
+2023:04:06:05:48:20 Not file bool
+2023:04:06:05:48:20 Not file char
+2023:04:06:05:48:20 Succesfull read CSVdata.csv
+2023:04:06:05:48:20 Added object television str 0
+2023:04:06:05:48:20 Added object monitor str 1
+2023:04:06:05:48:20 Added object monitor str 2
+2023:04:06:05:48:20 Added object television str 3
+2023:04:06:05:48:20 Added object television str 4
+2023:04:06:05:48:20 Added object television str 5
+2023:04:06:05:48:20 Added object monitor str 6
+2023:04:06:05:48:35 Before serialization
+2023:04:06:05:48:35 name: Hisense 65E7HQ 2022 QLED
+diagonal: 65.0
+resolution: 3840x2160
+price: 59980
+type led: QLED
+2023:04:06:05:48:35 name: Samsung C24F390FHI
+diagonal: 23.5
+resolution: 1920x1080
+price: 11440
+time response: 4
+2023:04:06:05:48:35 name: AOC AGON PRO AG324UX
+diagonal: 31.5
+resolution: 3840x2160
+price: 79500
+time response: 1
+2023:04:06:05:48:35 name: FUSION FLTV-32A210
+diagonal: 32.0
+resolution: 1366x768
+price: 9470
+type led: LED
+2023:04:06:05:48:35 name: Xiaomi Mi LED TV P1 32 (L32M6-6ARG)
+diagonal: 32.0
+resolution: 1366x768
+price: 25344
+type led: LED
+2023:04:06:05:48:35 name: LG OLED65A2RLA 2022 OLED
+diagonal: 65.0
+resolution: 3840x2160
+price: 157690
+type led: OLED
+2023:04:06:05:48:35 name: LG 27GN850-B
+diagonal: 27.0
+resolution: 2560x1440
+price: 61470
+time response: 1
+2023:04:06:05:48:35 Start seriallization
+2023:04:06:05:48:45 Not file type
+2023:04:06:05:48:53 Not file 1
+2023:04:06:05:48:55 Not file bool
+2023:04:06:05:48:57 Not file char
+2023:04:06:05:48:58 Succesfull read CSVdata.csv
+2023:04:06:05:49:13 Added object television str 0
+2023:04:06:05:49:28 Added object monitor str 1
+2023:04:06:05:49:28 Added object monitor str 2
+2023:04:06:05:49:28 Added object television str 3
+2023:04:06:05:49:28 Added object television str 4
+2023:04:06:05:49:28 Added object television str 5
+2023:04:06:05:49:28 Added object monitor str 6
+2023:04:06:05:49:35 Before serialization
+2023:04:06:05:49:40 name: Hisense 65E7HQ 2022 QLED
+diagonal: 65.0
+resolution: 3840x2160
+price: 59980
+type led: QLED
+2023:04:06:05:49:41 name: Samsung C24F390FHI
+diagonal: 23.5
+resolution: 1920x1080
+price: 11440
+time response: 4
+2023:04:06:05:49:45 name: AOC AGON PRO AG324UX
+diagonal: 31.5
+resolution: 3840x2160
+price: 79500
+time response: 1
+2023:04:06:05:49:45 name: FUSION FLTV-32A210
+diagonal: 32.0
+resolution: 1366x768
+price: 9470
+type led: LED
+2023:04:06:05:49:45 name: Xiaomi Mi LED TV P1 32 (L32M6-6ARG)
+diagonal: 32.0
+resolution: 1366x768
+price: 25344
+type led: LED
+2023:04:06:05:49:45 name: LG OLED65A2RLA 2022 OLED
+diagonal: 65.0
+resolution: 3840x2160
+price: 157690
+type led: OLED
+2023:04:06:05:49:45 name: LG 27GN850-B
+diagonal: 27.0
+resolution: 2560x1440
+price: 61470
+time response: 1
+2023:04:06:05:49:45 Start seriallization
+2023:04:06:05:49:48 End seriallization
+2023:04:06:05:49:49 Start deseriallization
+2023:04:06:05:49:51 End deserialization
+2023:04:06:05:49:51 After serialization:
+2023:04:06:05:50:41 name: Hisense 65E7HQ 2022 QLED
+diagonal: 65.0
+resolution: 3840x2160
+price: 59980
+type led: QLED
+2023:04:06:05:50:41 name: Samsung C24F390FHI
+diagonal: 23.5
+resolution: 1920x1080
+price: 11440
+time response: 4
+2023:04:06:05:50:41 name: AOC AGON PRO AG324UX
+diagonal: 31.5
+resolution: 3840x2160
+price: 79500
+time response: 1
+2023:04:06:05:50:41 name: FUSION FLTV-32A210
+diagonal: 32.0
+resolution: 1366x768
+price: 9470
+type led: LED
+2023:04:06:05:50:41 name: Xiaomi Mi LED TV P1 32 (L32M6-6ARG)
+diagonal: 32.0
+resolution: 1366x768
+price: 25344
+type led: LED
+2023:04:06:05:50:41 name: LG OLED65A2RLA 2022 OLED
+diagonal: 65.0
+resolution: 3840x2160
+price: 157690
+type led: OLED
+2023:04:06:05:50:41 name: LG 27GN850-B
+diagonal: 27.0
+resolution: 2560x1440
+price: 61470
+time response: 1
+2023:04:06:06:03:37 Not file type
+2023:04:06:06:03:40 Not file 1
+2023:04:06:06:03:42 Not file bool
+2023:04:06:06:03:43 Not file char
+2023:04:06:06:03:43 Succesfull read CSVdata.csv
+2023:04:06:06:03:44 Added object television str 0
+2023:04:06:06:03:44 Added object monitor str 1
+2023:04:06:06:03:44 Added object monitor str 2
+2023:04:06:06:03:44 Added object television str 3
+2023:04:06:06:03:44 Added object television str 4
+2023:04:06:06:03:44 Added object television str 5
+2023:04:06:06:03:44 Added object monitor str 6
+2023:04:06:06:03:44 Before serialization
+2023:04:06:06:03:44 name: Hisense 65E7HQ 2022 QLED
+diagonal: 65.0
+resolution: 3840x2160
+price: 59980
+type led: QLED
+2023:04:06:06:03:44 name: Samsung C24F390FHI
+diagonal: 23.5
+resolution: 1920x1080
+price: 11440
+time response: 4
+2023:04:06:06:03:44 name: AOC AGON PRO AG324UX
+diagonal: 31.5
+resolution: 3840x2160
+price: 79500
+time response: 1
+2023:04:06:06:03:44 name: FUSION FLTV-32A210
+diagonal: 32.0
+resolution: 1366x768
+price: 9470
+type led: LED
+2023:04:06:06:03:44 name: Xiaomi Mi LED TV P1 32 (L32M6-6ARG)
+diagonal: 32.0
+resolution: 1366x768
+price: 25344
+type led: LED
+2023:04:06:06:03:44 name: LG OLED65A2RLA 2022 OLED
+diagonal: 65.0
+resolution: 3840x2160
+price: 157690
+type led: OLED
+2023:04:06:06:03:44 name: LG 27GN850-B
+diagonal: 27.0
+resolution: 2560x1440
+price: 61470
+time response: 1
+2023:04:06:06:03:44 Start seriallization
+2023:04:06:06:03:44 End seriallization
+2023:04:06:06:03:44 Start deseriallization
+2023:04:06:06:03:44 End deserialization
+2023:04:06:06:03:44 After serialization:
+2023:04:06:06:03:44 name: Hisense 65E7HQ 2022 QLED
+diagonal: 65.0
+resolution: 3840x2160
+price: 59980
+type led: QLED
+2023:04:06:06:03:44 name: Samsung C24F390FHI
+diagonal: 23.5
+resolution: 1920x1080
+price: 11440
+time response: 4
+2023:04:06:06:03:44 name: AOC AGON PRO AG324UX
+diagonal: 31.5
+resolution: 3840x2160
+price: 79500
+time response: 1
+2023:04:06:06:03:44 name: FUSION FLTV-32A210
+diagonal: 32.0
+resolution: 1366x768
+price: 9470
+type led: LED
+2023:04:06:06:03:44 name: Xiaomi Mi LED TV P1 32 (L32M6-6ARG)
+diagonal: 32.0
+resolution: 1366x768
+price: 25344
+type led: LED
+2023:04:06:06:03:44 name: LG OLED65A2RLA 2022 OLED
+diagonal: 65.0
+resolution: 3840x2160
+price: 157690
+type led: OLED
+2023:04:06:06:03:44 name: LG 27GN850-B
+diagonal: 27.0
+resolution: 2560x1440
+price: 61470
+time response: 1
+2023:04:06:06:03:54 TV on
+2023:04:06:06:03:56 TV off
+2023:04:06:06:03:59 Monitor turned on
+2023:04:06:06:04:01 Monitor turned off
+2023:04:06:06:04:02 Monitor turned on
+2023:04:06:06:04:03 Monitor turned off
+2023:04:06:06:04:04 TV on
+2023:04:06:06:04:05 TV off
+2023:04:06:06:04:05 TV on
+2023:04:06:06:04:06 TV off
+2023:04:06:06:04:07 TV on
+2023:04:06:06:04:07 TV off
+2023:04:06:06:04:08 Monitor turned on
+2023:04:06:06:04:09 Monitor turned off
