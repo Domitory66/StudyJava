@@ -11,8 +11,8 @@ public class DoubleSquare extends Shape {
     public DoubleSquare() {
     }
 
-    public DoubleSquare(int x, int y, int side, Color color) {
-        super(x, y,side,color);
+    public DoubleSquare(int x, int y, int side) {
+        super(x, y,side);
         this.side = side;
     }
 
@@ -26,8 +26,7 @@ public class DoubleSquare extends Shape {
 
     @Override
     public void draw(Graphics g) {
-        g.setColor(Color.ORANGE);
-       g.setColor(Color.RED);
+        g.setColor(Color.RED);
         g.drawRect(x,y, side,side);
         g.fillRect(x, y, side, side);
         g.setColor(color);
